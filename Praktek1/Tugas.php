@@ -67,4 +67,10 @@ $ar_nilai = [$mahasiswa1, $mahasiswa2, $mahasiswa3];
     </div>
 
 </body>
+r>
+            <?php } ?>
+        </table>
+    </div>
+
+</body>
 </html>
